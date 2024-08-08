@@ -22,21 +22,21 @@ function salvarUser(){
 
     if(nomeUser){
         dadosLista.push(nomeUser);
-       //console.log(dadosLista);
-       crialista();
-       document.getElementById('NomeUser').value ="";
+       console.log(dadosLista);
+       criaLista();
+       document.getElementById('nomeUser').value ="";
     }else{
         alert("Favor informar o nome para cadastro");
     }
     
 }
 // FUNÇÃO PARA CRIAR LISTA
-function crialista(){
-    let table = document.getElementById('table').innerHTML = "<tr><th>Nome Usuário</th><th>Ações</th><tr>;"
-    for(let i = 0; (dadosLista.length-1); i++){
-        table += "<tr><td>" + dadosLista[i] + "</td><td><button type = 'button'>Editar</td></tr>";
-        document.getElementById('table').innerHTML = table
+function criaLista(){
+    let table = document.getElementById('table').innerHTML = "<tr><th>Nome Usuário</th><th>Ações</th></tr>";
 
+    for(let i = 0; i <= (dadosLista.length-1); i++){
+        table += "<tr><td>" + dadosLista[i] + "</td><td><button type='bytton' onclick='editar(this.parentNode.parentNode.rowIndex'>Editar</button></td></tr>";
+        document.getElementById('table').innerHTML = table;
     }
 }
 
