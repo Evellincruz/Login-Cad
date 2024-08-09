@@ -1,9 +1,9 @@
-# Projeto de Cadastro de Usuários
+# Projeto de Cadastro de Usuários 📜
 
 Bem-vindo ao Sistema de Cadastro de Usuários – uma aplicação web elegante e fácil de usar, projetada para tornar o gerenciamento de usuários simples e eficiente. Com uma interface intuitiva, este projeto oferece um conjunto de funcionalidades essenciais para controlar suas informações de usuários de forma
 eficaz.
 
-## Sumário
+## Sumário 🔗
 - [Descrição do projeto](#Descrição-do-projeto)
 - [Tecnologias Utilizadas](#Tecnologias-Utilizadas)
 - [Instalação](#Instalação)
@@ -13,7 +13,7 @@ eficaz.
 - [Links Importantes](#Links-Importantes)
 
 
-# Descrição do projeto
+# Descrição do projeto 📄
 
 Este projeto é uma aplicação web projetada para gerenciar usuários com uma interface simples e intuitiva. Ele consiste em duas telas principais:
 
@@ -24,7 +24,7 @@ Este projeto é uma aplicação web projetada para gerenciar usuários com uma i
 A aplicação proporciona um fluxo claro e eficiente para o gerenciamento de usuários, com funcionalidades básicas para adicionar, visualizar e editar informações, garantindo uma experiência de usuário fluida e sem complicações.
 
 
-# Instalação
+# Instalação 🛠️
 Para rodar o projeto localmente, siga estes passos:
 
 Clone o repositório:
@@ -32,7 +32,7 @@ Clone o repositório:
 Copiar código
 git clone: EDITAR
 
-# Como Usar
+# Como Usar 🚀
 
 Tela de Login:
 
@@ -45,7 +45,7 @@ Preencha o nome do usuário e clique em "SALVAR".
 O nome será adicionado à tabela exibida na tela.
 Utilize os botões "Editar" e "Excluir" para gerenciar os usuários na lista.
 
-## Códigos
+## Códigos 📝
 
  Login 
 ```` HTML 
@@ -171,7 +171,7 @@ function editar(i){
     dadosLista.splice(dadosLista[(i - 1)], 1);
 }
 ````
-## Tecnologias Utilizadas
+## Tecnologias Utilizadas 🔧
 
 * JavaScript
 
@@ -181,7 +181,7 @@ function editar(i){
 
 * Bootstrap
 
-## Imagens do projeto:
+## Imagens do projeto 🔥 
 
  Tela de Login:
 
@@ -195,7 +195,7 @@ function editar(i){
 
 [img]()
 
-## Links Importantes:
+## Links Importantes 🌐
 Repositório GitHub:
 
 Navegar Projeto no GitHub Pages: 
