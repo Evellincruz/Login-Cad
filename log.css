@@ -1,0 +1,63 @@
+/* Reset básico para garantir consistência entre navegadores */
+/* Remove margens e espaçamentos padrão e define box-sizing para border-box */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Corpo da página */
+/* Define a fonte, a cor de fundo e o layout centralizado */
+body {
+    font-family: Arial, sans-serif; /* Define a fonte usada no corpo da página */
+    background-color: #ffffff; /* Define a cor de fundo da página */
+    color: rgb(0, 0, 0); /* Define a cor do texto padrão */
+    display: flex; /* Usa flexbox para layout */
+    justify-content: center; /* Centraliza horizontalmente o conteúdo */
+    align-items: center; /* Centraliza verticalmente o conteúdo */
+    height: 100vh; /* Define a altura da página como 100% da altura da viewport */
+    margin: 0; /* Remove a margem padrão do corpo */
+}
+
+/* Container do formulário de login */
+/* Define o estilo do container que envolve o formulário de login */
+.container {
+    background: rgb(229, 228, 228); /* Cor de fundo branca para o container */
+    border-radius: 8px; /* Borda arredondada para um visual mais suave */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Sombra sutil para dar profundidade ao container */
+    padding: 20px; /* Espaçamento interno do container */
+    max-width: 400px; /* Largura máxima do container */
+    width: 100%; /* Largura total disponível */
+}
+
+/* Estilo para o cabeçalho */
+/* Define o estilo do texto do cabeçalho dentro do container */
+h3 {
+    margin-bottom: 20px; /* Espaçamento abaixo do cabeçalho */
+    color: #105c85e4; /* Cor do texto do cabeçalho */
+    text-align: center; /* Alinhamento central do texto do cabeçalho */
+}
+
+/* Estilo para os campos de entrada */
+/* Define o estilo dos campos de entrada do formulário */
+.form-control {
+    margin-bottom: 10px; /* Espaçamento inferior para separar os campos */
+}
+
+/* Estilo para o botão de login */
+/* Define o estilo do botão de login */
+.btn-warning {
+    width: 100%; /* Largura total do botão */
+    padding: 10px; /* Espaçamento interno do botão */
+    border: none; /* Remove a borda padrão do botão */
+    border-radius: 4px; /* Borda arredondada para um visual mais suave */
+    color: #fff; /* Cor do texto do botão */
+    font-size: 16px; /* Tamanho da fonte do botão */
+    cursor: pointer; /* Cursor de ponteiro para indicar que o botão é clicável */
+    background-color: #07d6ff6a; /* Cor de fundo do botão de alerta */
+    transition: background-color 0.3s ease; /* Transição suave para mudanças de cor de fundo */
+}
+
+.btn-warning:hover {
+    background-color: #0056e0; /* Cor de fundo do botão de alerta quando o cursor está sobre ele */
+}
