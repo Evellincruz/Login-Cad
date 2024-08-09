@@ -1,4 +1,4 @@
-# Projeto de Cadastro de Usuários 📜
+# Projeto de Cadastro de Usuários ⚜️
 
 Bem-vindo ao Sistema de Cadastro de Usuários – uma aplicação web elegante e fácil de usar, projetada para tornar o gerenciamento de usuários simples e eficiente. Com uma interface intuitiva, este projeto oferece um conjunto de funcionalidades essenciais para controlar suas informações de usuários de forma
 eficaz.
@@ -9,7 +9,7 @@ eficaz.
 - [Instalação](#Instalação)
 - [Códigos](#códigos)
 - [Como Usar](#Como-Usar)
-- [Imagens do Projeto](#Imagens-do-Projeto)
+- [Finalização do Projeto](#Imagens-do-Projeto)
 - [Links Importantes](#Links-Importantes)
 
 
@@ -25,12 +25,48 @@ A aplicação proporciona um fluxo claro e eficiente para o gerenciamento de usu
 
 
 # Instalação 🛠️
+
 Para rodar o projeto localmente, siga estes passos:
 
-Clone o repositório:
+1. ## Clone o repositório:
+   
+   Abra seu terminal e execute o comando abaixo para clonar o repositório:
 
-Copiar código
-git clone: EDITAR
+git clone:
+````
+ https://github.com/Evellincruz/login-cad.git
+   ````
+
+2. Navegue para o diretório do projeto:
+
+Entre no diretório do projeto clonado:
+
+````
+cd login-cad
+````
+Instale as dependências;
+
+Se o projeto usa Node.js, você pode instalar as dependências com:
+
+````
+npm install
+````
+Ou, se estiver usando o Yarn:
+
+````
+yarn install
+````
+Configure o ambiente (se necessário):
+
+Crie um arquivo .env na raiz do projeto e adicione as variáveis de ambiente necessárias. Consulte o arquivo .env.example ou a documentação do projeto para detalhes.
+
+Inicie o projeto:
+
+Para iniciar o projeto localmente, execute:
+
+````
+npm start
+````
 
 # Como Usar 🚀
 
@@ -181,21 +217,19 @@ function editar(i){
 
 * Bootstrap
 
-## Imagens do projeto 🔥 
+## Finalização do projeto 🔥 
 
  Tela de Login:
 
- [img]()
+![img](gifs/login1.gif)
 
- Tela de Cadastro:]
+ Tela de Cadastro:
 
-[img]()
-
- Tabela de Usuários:
-
-[img]()
+![img](gifs/cadastro2.gif)
 
 ## Links Importantes 🌐
 Repositório GitHub:
 
-Navegar Projeto no GitHub Pages: 
+https://evellincruz.github.io/login-cad/
+
+Navegar Projeto no GitHub Pages: https://github.com/Evellincruz/login-cad
