@@ -3,11 +3,8 @@
 Bem-vindo ao Sistema de Cadastro de Usuários – uma aplicação web elegante e fácil de usar, projetada para tornar o gerenciamento de usuários simples e eficiente. Com uma interface intuitiva, este projeto oferece um conjunto de funcionalidades essenciais para controlar suas informações de usuários de forma
 eficaz.
 
-
-teste
-
 ## Sumário 🔗
-- [Descrição do projeto](#descrição-do-projeto-📄)
+- [Descrição do projeto](#descrição-do-projeto-📄) 
 - [Tecnologias Utilizadas](#tecnologias-utilizadas-🔧)
 - [Instalação](#instalação-🛠️)
 - [Códigos](#códigos-📝)
