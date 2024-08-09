@@ -4,13 +4,13 @@ Bem-vindo ao Sistema de Cadastro de Usuários – uma aplicação web elegante e
 eficaz.
 
 ## Sumário 🔗
-- [Descrição do projeto](#Descrição-do-projeto)
-- [Tecnologias Utilizadas](#Tecnologias-Utilizadas)
-- [Instalação](#Instalação)
-- [Códigos](#códigos)
-- [Como Usar](#Como-Usar)
-- [Finalização do Projeto](#Imagens-do-Projeto)
-- [Links Importantes](#Links-Importantes)
+- [Descrição do projeto](#descrição-do-projeto-📄)
+- [Tecnologias Utilizadas](#tecnologias-utilizadas-🔧)
+- [Instalação](#instalação-🛠️)
+- [Códigos](#códigos-📝)
+- [Como Usar](#como-usar-🚀)
+- [Finalização do Projeto](#finalização-do-projeto-🔥)
+- [Links Importantes](#links-importantes-🌐)
 
 
 # Descrição do projeto 📄
