@@ -5,10 +5,10 @@ eficaz.
 
 ## Sumário 🔗
 - [Descrição do projeto](https://github.com/Evellincruz/login-cad?tab=readme-ov-file#instala%C3%A7%C3%A3o-%EF%B8%8F) 
-- [Tecnologias Utilizadas](https://github.com/Evellincruz/login-cad?tab=readme-ov-file#tecnologias-utilizadas-)
 - [Instalação](https://github.com/Evellincruz/login-cad?tab=readme-ov-file#instala%C3%A7%C3%A3o-%EF%B8%8F)
-- [Códigos](https://github.com/Evellincruz/login-cad?tab=readme-ov-file#c%C3%B3digos-)
 - [Como Usar](https://github.com/Evellincruz/login-cad?tab=readme-ov-file#como-usar-)
+- [Códigos](https://github.com/Evellincruz/login-cad?tab=readme-ov-file#c%C3%B3digos-)
+- [Tecnologias Utilizadas](https://github.com/Evellincruz/login-cad?tab=readme-ov-file#tecnologias-utilizadas-)
 - [Finalização do Projeto](https://github.com/Evellincruz/login-cad?tab=readme-ov-file#finaliza%C3%A7%C3%A3o-do-projeto-)
 - [Links Importantes](https://github.com/Evellincruz/login-cad?tab=readme-ov-file#links-importantes-)
 
