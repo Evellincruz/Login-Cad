@@ -77,7 +77,7 @@ Se ambos os campos estiverem preenchidos, você será redirecionado para a tela 
 
 Tela de Cadastro:
 
-Preencha o nome do usuário e clique em "SALVAR".
+Preencha o nome e e-mail do usuário e clique em "SALVAR".
 O nome será adicionado à tabela exibida na tela.
 Utilize os botões "Editar" e "Excluir" para gerenciar os usuários na lista.
 
