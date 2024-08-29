@@ -19,7 +19,7 @@ Este projeto é uma aplicação web projetada para gerenciar usuários com uma i
 
 * Tela de Login: Permite que o usuário se autentique inserindo um email e uma senha. Após a autenticação bem-sucedida, o usuário é redirecionado para a tela de cadastro.
 
-* Tela de Cadastro: Nesta tela, o usuário pode adicionar novos nomes à lista, visualizar usuários já cadastrados e editar informações existentes. A lista de usuários é apresentada em uma tabela onde é possível gerenciar os nomes cadastrados de maneira fácil e rápida.
+* Tela de Cadastro: Nesta tela, o usuário pode adicionar novos nomes à lista, visualizar usuários já cadastrados e editar e excluir informações existentes. A lista de usuários é apresentada em uma tabela onde é possível gerenciar os nomes cadastrados de maneira fácil e rápida.
 
 A aplicação proporciona um fluxo claro e eficiente para o gerenciamento de usuários, com funcionalidades básicas para adicionar, visualizar e editar informações, garantindo uma experiência de usuário fluida e sem complicações.
 
