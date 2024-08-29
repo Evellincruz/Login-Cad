@@ -58,6 +58,8 @@ Preencha o nome e e-mail do usuário e clique em "SALVAR".
 O nome será adicionado à tabela exibida na tela.
 Utilize os botões "Editar" e "Excluir" para gerenciar os usuários na lista.
 
+O campo de e-mail foi uma segunda parte do trabalho, uma incrementação da página de cadastro, para incuir a coluna de "E-mail foi necessária a alterção no código Js, tivemos que modificar o arrey de editar e excluir.
+
 ## Códigos 📝
 
  Login 
