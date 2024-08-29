@@ -44,29 +44,6 @@ Entre no diretório do projeto clonado:
 ````
 cd login-cad
 ````
-Instale as dependências;
-
-Se o projeto usa Node.js, você pode instalar as dependências com:
-
-````
-npm install
-````
-Ou, se estiver usando o Yarn:
-
-````
-yarn install
-````
-Configure o ambiente (se necessário):
-
-Crie um arquivo .env na raiz do projeto e adicione as variáveis de ambiente necessárias. Consulte o arquivo .env.example ou a documentação do projeto para detalhes.
-
-Inicie o projeto:
-
-Para iniciar o projeto localmente, execute:
-
-````
-npm start
-````
 
 # Como Usar 🚀
 
